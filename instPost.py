@@ -4,8 +4,8 @@ from instapy_cli import client
 
 
 
-username = 'ugobozz1'
-password = 'Ugomartins1'
+username = 'ugocode'
+password = '**********'
 image = 'rangeR.png'
 text = 'Bought a new baby' + '\r\n   #Python #computer'
 
@@ -23,8 +23,8 @@ import schedule
 import time
 
 #your login credentials
-insta_username='ugobozz1'
-insta_password='Ugomartins1'
+insta_username='ugocode'
+insta_password='***********'
 
 #path to your workspace
 set_workspace(path=None)
