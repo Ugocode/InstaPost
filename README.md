@@ -7,3 +7,12 @@ It is required that you fill in your instagram username and password and put the
 Its really short and easy with very few lines of code to make all the magic happen.
 
 Some of the beauties of python. 
+
+WHATS in This Repo:
+
+1) A readme.md file
+
+2) A dot py file that contains the code for the instagram posting.
+
+3) An example picture to post on instagram 
+
