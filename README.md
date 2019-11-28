@@ -1,5 +1,8 @@
 # InstaPost
-Python script for posting pictures to instagram 
+Python script for posting pictures to Instagram 
+
+![](insta.jpg)
+
 
 This is an awesome script used for posting pictures and videos to your instagram page 
 
