@@ -13,7 +13,7 @@ Its really short and easy with very few lines of code to make all the magic happ
 
 Some of the beauties of python. 
 
-## WHATS in This Repo:
+## File guide:
 
 1) A readme.md file
 
