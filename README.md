@@ -4,7 +4,7 @@ Python script for posting pictures to Instagram
 ![](insta.jpg)
 
 
-This is an awesome script used for posting pictures and videos to your instagram page 
+This is an awesome Python script used for posting pictures and videos to your instagram page 
 
 # Description
 
